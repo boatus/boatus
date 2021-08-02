@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @boatus
+- 👀 I’m interested in open source
+- 🌱 I’m currently learning C
